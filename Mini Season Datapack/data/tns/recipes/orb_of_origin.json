@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S",
+        "S#S",
+        " S "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "result": {
+        "item": "origins:orb_of_origin"
+    }
+}
