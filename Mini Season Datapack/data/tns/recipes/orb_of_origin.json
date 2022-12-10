@@ -7,10 +7,10 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:diamond"
+            "item": "minecraft:nether_star"
         },
         "S": {
-            "item": "minecraft:amethyst_shard"
+            "item": "minecraft:diamond"
         }
     },
     "result": {
