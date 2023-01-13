@@ -1,9 +1,0 @@
-{
-    "condition": "minecraft:alternative",
-    "terms": [
-        {
-            "condition": "origins:origin",
-            "origin": "moborigins:snowgolem"
-        }
-    ]
-}
